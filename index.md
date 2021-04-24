@@ -6,7 +6,11 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-Text
+<h2>Components</h2>
+<ol>
+  <li><a href="/components/all.html">All</a></li>
+  <li><a href="/components/typography.html">Typography</a></li>
+</ol>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
